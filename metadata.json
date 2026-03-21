@@ -1,0 +1,5 @@
+{
+  "name": "The Fluid Retailer",
+  "description": "An architectural concierge retail experience with seamless scanning and checkout.",
+  "requestFramePermissions": ["camera"]
+}

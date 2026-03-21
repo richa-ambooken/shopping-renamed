@@ -1,0 +1,26 @@
+[
+  {
+    "id": 102,
+    "name": "Milma Milk",
+    "price": 30,
+    "stock": 47,
+    "soldToday": 3,
+    "image": "https://www.mrcmpu.com/cms/milmaapi/images/1682753844.png"
+  },
+  {
+    "id": 8901030886119,
+    "name": "Lux Soap",
+    "price": 25,
+    "stock": 33,
+    "soldToday": 7,
+    "image": "https://www.quickpantry.in/cdn/shop/products/lux-international-creamy-perfection-soap-bar-125-g-quick-pantry.jpg?v=1710538708"
+  },
+  {
+    "id": 101,
+    "name": "Diapers",
+    "price": 50,
+    "stock": 96,
+    "soldToday": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7MZPfDYRwcmzxtwFAam1-Ud8tZ7eQ6drqQ&s"
+  }
+]
